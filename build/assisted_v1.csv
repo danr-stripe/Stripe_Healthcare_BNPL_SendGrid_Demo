@@ -1,0 +1,25 @@
+﻿Type,Image,Service,Tag,SelfPrice,Price,Warning,Message,SubPrice,ivf,iui,tubalreversal,vasectomyreversal,fet,invocell
+treatment,"./CNYWeb/IVF.svg",In Vitro Fertilization,ivf,,1995,,National Average.,5000,TRUE,,,,,
+treatment,"./CNYWeb/IVF.svg",Intrauterine Insemination,iui,,2995,,National Average.,5000,,TRUE,,,,
+treatment,"./CNYWeb/IVF.svg",Tubal Reversal,tubalreversal,,3995,,National Average.,5000,,,TRUE,,,
+treatment,"./CNYWeb/IVF.svg",Vasectomy Reversal,vasectomyreversal,,1995,,National Average.,5000,,,,TRUE,,
+treatment,"./CNYWeb/IVF.svg",Frozen Embryo Transfer,fet,,2995,,National Average.,5000,,,,,TRUE,
+treatment,"./CNYWeb/IVF.svg",INVOcell,invocell,,3995,,National Average.,5000,,,,,,TRUE
+addon,,In House Monitoring,ao_ihm,,995,,Third Party.,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,Frozen Transfer,ao_ft,,695,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,Genetic Testing,ao_gt,,400,,"Paid to genetics lab, non-financeable.",1800,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,TOTAL Medication Estimate,ao_me,TRUE,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,ZyMōt Sperm Processing,ao_zsp,,200,,"Paid to bloodwork lab & Pregmune, non-financeable.",5800,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,Pregmune Reproductive Immunology Testing,ao_pri,,500,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,IVF,ao_ivf,,1995,,,,,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,FET,ao_fet,,1995,,,,TRUE,TRUE,TRUE,TRUE,,TRUE
+addon,,Donor Egg Add On,ao_de,TRUE,,,"Donor Egg: Prices vary,based on number of Add On.",1000,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,Donor Sperm,ao_ds,,,,"Donor Sperm: Prices vary, paid directly to sperm bank.",750,TRUE,,,,TRUE,TRUE
+addon,,Gestational Surrogacy,ao_gs,,,,"Surrogacy: Prices vary, paid directly to agency.",100000,TRUE,,,,TRUE,TRUE
+addon,,Reciprocal IVF,ao_rivf,,,,,,TRUE,,,,TRUE,TRUE
+addon,,Financeing Fee,ao_fin,,250,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+discount,,Military & Vet Discount 5%,dis_mil,,0.05,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+include,,Retrieval + Anesthesia,,,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+include,,ICSI + Assisted Hatching,,,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+include,,Fresh Transfer,,,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+include,,Cryopreservation + 1 yr storage ,,,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE

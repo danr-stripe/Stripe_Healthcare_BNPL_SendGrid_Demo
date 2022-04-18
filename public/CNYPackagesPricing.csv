@@ -1,0 +1,24 @@
+Type,Image,Service,Tag,SelfPrice,Price,Warning,Message,SubPrice,t_ivf,t_iui,t_tubalreversal,t_vasectomyreversal,t_fets,t_fetm
+treatment,./CNYWeb/IVF.svg,In Vitro Fertilization,t_ivf,,3995,,National Average.,5000,TRUE,,,,,
+treatment,./CNYWeb/IVF.svg,Intrauterine Insemination,t_iui,,650,,National Average.,5000,,TRUE,,,,
+treatment,./CNYWeb/IVF.svg,Tubal Reversal,t_tubalreversal,,4995,,National Average.,5000,,,TRUE,,,
+treatment,./CNYWeb/IVF.svg,Vasectomy Reversal,t_vasectomyreversal,,7900,,National Average.,5000,,,,TRUE,,
+treatment,./CNYWeb/IVF.svg,Frozen Embryo Transfer (Multi),t_fetm,,1995,,National Average.,5000,,,,,TRUE,
+treatment,./CNYWeb/IVF.svg,Frozen Embryo Transfer (Single),t_fets,,695,,National Average.,5000,,,,,,TRUE
+addon,,In House Monitoring,ao_ihm,,695,,Third Party.,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,Out of town Monitoring,ao_ootm,,150,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,Frozen Transfer Multi,ao_ftm,,1995,,,,TRUE,TRUE,TRUE,TRUE,,
+addon,,Frozen Transfer Single,ao_fts,,695,,,,TRUE,TRUE,TRUE,TRUE,,
+addon,,Genetic Testing,ao_gt,,100,,"Paid to genetics lab, non-financeable.",1800,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,TOTAL Medication Estimate,ao_me,TRUE,0,,,1000,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,ZyMōt Device ,ao_zsp,,200,,,5800,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,Donor Egg Add On,ao_de,,0,,"Donor Egg: Prices vary,based on number of Add On.",1000,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,Donor Sperm,ao_ds,,0,,"Donor Sperm: Prices vary, paid directly to sperm bank.",750,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,Gestational Surrogacy,ao_gs,,0,,"Surrogacy: Prices vary, paid directly to agency.",100000,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,Reciprocal IVF,ao_rivf,,0,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+addon,,Financeing Fee,ao_fin,,250,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+discount,,Military & Vet Discount 5%,dis_mil,,0.05,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+include,,Retrieval + Anesthesia,,,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+include,,ICSI + Assisted Hatching,,,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+include,,Fresh Transfer,,,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+include,,Cryopreservation + 1 yr storage,,,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE

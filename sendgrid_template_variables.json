@@ -1,0 +1,9 @@
+{
+    "first_name": "Daniel",
+    "dollar_per_month_12_month_option" : "$89.95",
+    "dollar_per_month_18_month_option" : "$59.95",
+    "dollar_per_month_24_month_option" : "$29.95",
+    "paymentlink12" : "https://12.com",
+    "paymentlink18" : "https://18.com",
+    "paymentlink24" : "https://24.com"
+}
