@@ -11,13 +11,13 @@ SENDGRID_API_KEY=
 SENDGRID_VERIFIED_SENDER=
 SENDGRID_TEMPLATE_ID=
 
-2. Run <npm install react> 
-3. Run <npm install node> 
-4. Run <npm start> from the top level directory
+2. Run npm install react
+3. Run npm install node
+4. Run npm start from the top level directory
 
 
 One the front end has started, and automatically loaded a browser with localhost:3000, 
 
-5. <cd src> and run <node server.js> to run the server
+5. cd src and run node server.js to run the server
 
 6. All relevant Stripe code and SendGrid code is located in server.js 
