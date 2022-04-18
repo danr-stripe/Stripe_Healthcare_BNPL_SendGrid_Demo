@@ -1,12 +1,12 @@
 1. Setup your Stripe and SendGrid API keys in the /src/.env file per below, as well as the template ID from SendGrid and the verified sender.
 
 
-# Stripe keys
+//Stripe keys
 REACT_APP_STRIPE_SECRET_KEY=
 REACT_APP_STRIPE_PUBLISHABLE_KEY=
 REACT_APP_YOUR_DOMAIN=localhost
 
-#SendGrid
+//SendGrid
 SENDGRID_API_KEY=
 SENDGRID_VERIFIED_SENDER=
 SENDGRID_TEMPLATE_ID=
